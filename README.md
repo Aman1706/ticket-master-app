@@ -13,3 +13,7 @@ Can view pending tickets and completed tickets with respect to each Listing in t
 Languages/Packages Used : React.js, React Router DOM, Redux, Redux Thunk, Node.js ,
 Express.js, MongoDB, JWT, BcryptJS, GoogleCharts, Validator, Sweet Alert 2, BootStrap,
 ReactStrap, etc.
+
+Front end as well as back end section of the app is deployed in heroku.
+
+The MongoDB database is hosted in the MongoDB Atlas Server.
